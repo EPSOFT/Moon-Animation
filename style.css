@@ -1,0 +1,251 @@
+body{
+	background: black;
+}
+
+	.moon {
+		width: 100px;
+		height: 100px;
+		border-radius: 50%;
+		box-shadow: -15px 15px 10px 2px ;
+		margin-top:10%;
+		margin-left: 44%;
+		animation:animate 6s linear infinite;
+		}
+
+	  .s1 {
+	position:absolute;
+	top:3%;
+	left:2%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2.2s linear infinite;
+}
+	
+	  .s2 {
+	position:absolute;
+	top:12%;
+	left:12%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2s linear infinite;
+}
+	
+	  .s3 {
+	position:absolute;
+	top:20%;
+	left:27%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2.4s linear infinite;
+}
+	  .s4 {
+	position:absolute;
+	top:28%;
+	left:8%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 3s linear infinite;
+}
+	
+	
+	  .s5 {
+	position:absolute;
+	top:38%;
+	left :34%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2.3s linear infinite;
+}
+	
+	  .s6 {
+	position:absolute;
+	top:10%;
+	left:58%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2s linear infinite;
+}
+	
+	  .s7 {
+	position:absolute;
+	top:28%;
+	left:54%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 3s linear infinite;
+}
+	
+	  .s8 {
+	position:absolute;
+	top:28%;
+	left:78%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 3.3s linear infinite;
+}
+	
+	  .s9 {
+	position:absolute;
+	top:88%;
+	left:88%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2.6s linear infinite;
+}
+	
+	  .s10 {
+	position:absolute;
+	top:8%;
+	left:95%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 3s linear infinite;
+}
+	
+	  .s11 {
+	position:absolute;
+	top:88%;
+	left:38%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2s linear infinite;
+}
+	
+	  .s12 {
+	position:absolute;
+	top:39%;
+	left:62%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2.6s linear infinite;
+}
+	
+	  .s13 {
+	position:absolute;
+	top:10%;
+	left:38%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2s linear infinite;
+}
+	
+	  .s14 {
+	position:absolute;
+	top:58%;
+	left:68%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 1.9s linear infinite;
+}
+	
+	  .s15 {
+	position:absolute;
+	top:68%;
+	left:58%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2.6s linear infinite;
+}
+	
+	  .s16 {
+	position:absolute;
+	top:48%;
+	left:48%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2s linear infinite;
+}
+	
+	  .s17 {
+	position:absolute;
+	top:88%;
+	left:8%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 3s linear infinite;
+}
+	
+	  .s18 {
+	position:absolute;
+	top:75%;
+	left:20%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 3s linear infinite;
+}
+	
+	  .s19 {
+	position:absolute;
+	top:60%;
+	left:35%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2.7s linear infinite;
+}
+	
+	  .s20 {
+	position:absolute;
+	top:57%;
+	left:6%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2s linear infinite;
+}
+	
+	  .s21 {
+	position:absolute;
+	top:47%;
+	left:20%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 3s linear infinite;
+}
+	
+	  .s22 {
+	position:absolute;
+	top:53%;
+	left:92%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2.8s linear infinite;
+}
+	
+	  .s23 {
+	position:absolute;
+	top:84%;
+	left:74%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 3s linear infinite;
+}
+	
+	  .s24 {
+	position:absolute;
+	top:60%;
+	left:79%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 2s linear infinite;
+}
+	
+	  .s25 {
+	position:absolute;
+	top:80%;
+	left:45%;
+	list-style:none;
+    font-size:25px;
+    animation:animate 3s linear infinite;
+}
+	
+
+		@keyframes animate
+
+	{
+	
+	70%
+	{
+	color:white;
+	text-shadow:0px 0px 7px white , 0px 0px 10px white;
+	}
+	}
+	
